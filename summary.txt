@@ -1,0 +1,155 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         6
+	Longest value:         7 characters
+	Most common values:    None (7x)
+	                       P000197 (2x)
+	                       C000266 (1x)
+	                       H000874 (1x)
+	                       S000248 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         20 characters
+	Most common values:    COMMITTEE ON BUDGET (7x)
+	                       HON. NANCY PELOSI (2x)
+	                       HON. STEVE CHABOT (1x)
+	                       HON. STENY H. HOYER (1x)
+	                       HON. JOSE E. SERRANO (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (13x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         28 characters
+	Most common values:    GENERAL EXPENDITURES (7x)
+	                       OFFICIAL EXPENSES OF MEMBERS (6x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (13x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (13x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (13x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (13x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         13
+	Longest value:         16 characters
+	Most common values:    GRIFFITH BRIAN C (1x)
+	                       SNYDER RACHEL N (1x)
+	                       AMADOR ADELA (1x)
+	                       ROSS PATRICIA L (1x)
+	                       PRICE CRYSTAL C (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        2017-01-03
+	Largest value:         2017-02-17
+	Most common values:    2017-01-03 (9x)
+	                       2017-01-05 (1x)
+	                       2017-02-02 (1x)
+	                       2017-02-10 (1x)
+	                       2017-02-17 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2017-03-31
+	Largest value:         2017-03-31
+	Most common values:    2017-03-31 (13x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         14 characters
+	Most common values:    POLICY ADVISOR (13x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         12
+	Smallest value:        10,388.89
+	Largest value:         22,971.67
+	Sum:                   197,952.21
+	Mean:                  15,227.093
+	Median:                14,750
+	StDev:                 3,770.555
+	Most common values:    18,333.33 (2x)
+	                       22,971.67 (1x)
+	                       13,444.44 (1x)
+	                       11,244.43 (1x)
+	                       17,916.67 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   26,221
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (13x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         13
+	Longest value:         16 characters
+	Most common values:    GRIFFITH BRIAN C (1x)
+	                       SNYDER RACHEL N (1x)
+	                       AMADOR ADELA (1x)
+	                       ROSS PATRICIA L (1x)
+	                       PRICE CRYSTAL C (1x)
+
+Row count: 13

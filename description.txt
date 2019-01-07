@@ -1,0 +1,1 @@
+This subset of data represents rows where someone has made payment to policy advisor for more than $10,000. Turned out that very few members did aside from the committee on budget.
