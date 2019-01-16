@@ -6,7 +6,9 @@ import json
 with open('superheroes.json', 'r') as f:
     superheroes = json.load(f)
 
-data = []
+#print(superheroes)
+
+allpowers = []
 
 #  get the members
 members = superheroes['members']
@@ -19,8 +21,9 @@ for member in members:
     powers = member['powers']
     # loop through the powers and print each one
     for power in powers:
-    	data.append(power)
+    	print(power)
+    	#allpower.append(powers)
 
 #make the list unique. unique value can be done by "set"
-unique_powers = list(set(data))
+unique_powers = list(set(powers))
 print(unique_powers)
