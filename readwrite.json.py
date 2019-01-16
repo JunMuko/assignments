@@ -14,3 +14,6 @@ rows = [
 
 with open('friends.json', 'w') as f:
     json.dump(rows, f, indent =2)
+
+
+    
